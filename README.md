@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-First java program
+First java program. Also my first attempts to use git.
